@@ -337,7 +337,7 @@
     </navPoint>
     <navPoint id="num_55" playOrder="55">
       <navLabel>
-        <text>卷五十五・群奸之竄</text>
+        <text>卷五十五・羣奸之竄</text>
       </navLabel>
       <content src="Text/55.html"/>
     </navPoint>
@@ -403,7 +403,7 @@
     </navPoint>
     <navPoint id="num_66" playOrder="66">
       <navLabel>
-        <text>卷六十六・平群盜</text>
+        <text>卷六十六・平羣盜</text>
       </navLabel>
       <content src="Text/66.html"/>
     </navPoint>
