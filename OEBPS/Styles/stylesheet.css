@@ -184,3 +184,8 @@ p:hover .gg-link {
   text-decoration: underline dotted red;
   cursor: help;
 }
+.font-img {
+  border: 0;
+  vertical-align: middle;
+  height: 17.6px;
+}
